@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Yadav</h1>
-<h3 align="center">A impassioned Web Devloper.</h3>
+<h3 align="center">A impassioned Web Developer.</h3>
 
 
 
