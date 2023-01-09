@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohit-yadav-01a19122b/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/mohit-yad4v/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="mohit" height="50" width="50" /></a>
   <a href="https://twitter.com/Mohit_Kek" target="blank"><img align="center"
@@ -45,7 +45,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="60" height="60" /> </a>
  <h5 align="left">Basics of :-<h5>
-     <a href="https://www.cprogramming.com/" target="_blank"
+<!--      <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="60" height="60" /> </a>
   
@@ -55,7 +55,7 @@
       alt="cplusplus" width="60" height="60" /> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python" width="60" height="60" /> </a> 
+      alt="python" width="60" height="60" /> </a>  -->
  </p>
 
 
