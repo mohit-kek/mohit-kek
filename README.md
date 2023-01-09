@@ -44,7 +44,7 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="60" height="60" /> </a>
- <h5 align="left">Basics of :-<h5>
+<!--  <h5 align="left">Basics of :-<h5> -->
 <!--      <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="60" height="60" /> </a>
